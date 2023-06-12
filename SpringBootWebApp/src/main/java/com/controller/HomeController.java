@@ -11,7 +11,7 @@ public class HomeController {
 		System.out.println("In Home Controller");
 		System.out.println("To Access web Page  use below url: ");
 		System.out.println("http://localhost:8080/home");
-		return "index.jsp";
+		return "index";
 	}
 
 }
