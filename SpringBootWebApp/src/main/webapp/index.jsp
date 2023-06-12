@@ -8,7 +8,7 @@
 </head>
 <body>
 	
-	Welcome to SpringBoot Web Application
+	Hi ${name} !! Welcome  to SpringBoot Web Application
 	
 	
 
